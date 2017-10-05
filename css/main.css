@@ -5,6 +5,16 @@ html {
 
 }
 
+h1, h2 {
+  color: #5d8432;
+}
+
+figcaption {
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
+}
+
 img {
   width: 100%;
 }
