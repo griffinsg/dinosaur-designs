@@ -13,14 +13,14 @@ h1, h2 {
 }
 
 figcaption {
-  font-size: 1rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 
 }
 
-h2 figcaption {
-  font-size: .75rem;
+.first {
+  font-size: 1rem;
 
 }
 
