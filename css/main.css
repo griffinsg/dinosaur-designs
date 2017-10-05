@@ -9,6 +9,12 @@ h1, h2 {
   color: #5d8432;
 }
 
+nav {
+  font-weight: bold;
+  font-size: 1.125rem;
+
+}
+
 figcaption {
   font-size: 2rem;
   font-style: italic;
@@ -17,4 +23,8 @@ figcaption {
 
 img {
   width: 100%;
+}
+
+a:hover {
+  background-color: #793284;
 }
