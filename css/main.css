@@ -2,22 +2,13 @@ html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
   line-height: 1.5;
-
-}
-
-h1 {
-  font-size: 4rem;
+  list-style-type: none;
 
 }
 
 h1, h2 {
   color: #5d8432;
-
-}
-
-nav {
-  font-weight: bold;
-  font-size: 1.125rem;
+  text-transform: uppercase;
 
 }
 
@@ -34,7 +25,7 @@ img {
 }
 
 a:hover {
-  background-color: #793284;
+  color: #793284;
 
 }
 
@@ -45,5 +36,17 @@ h1, h2, nav {
 
 .hadro {
   font-size: 1rem;
+
+}
+
+a:link {
+  color: #793284;
+  font-weight: bold;
+  font-size: 1.125rem;
+
+}
+
+nav {
+
 
 }
