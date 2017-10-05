@@ -5,8 +5,14 @@ html {
 
 }
 
+h1 {
+  font-size: 4rem;
+
+}
+
 h1, h2 {
   color: #5d8432;
+
 }
 
 nav {
@@ -16,15 +22,28 @@ nav {
 }
 
 figcaption {
-  font-size: 2rem;
+  font-size: .75rem;
   font-style: italic;
   text-align: center;
+
 }
 
 img {
   width: 100%;
+
 }
 
 a:hover {
   background-color: #793284;
+
+}
+
+h1, h2, nav {
+  font-family: "Patua One", cursive;
+
+}
+
+.hadro {
+  font-size: 1rem;
+
 }
